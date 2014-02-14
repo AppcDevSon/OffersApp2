@@ -1,0 +1,23 @@
+<Alloy>
+	<Window id= "regWin"class="container">
+		<View class="nav">
+			<Button id="navbtn" onClick="back"/>
+			<Label id="navlbl"/>
+		</View>
+		<View class="userview">
+			<Label id="user"/>
+			<TextField id= "usertxt"/>
+		</View>
+		<View class="passview">
+			<Label id="pass"/>
+			<TextField passwordMask="true" id= "passtxt"/>
+		</View>
+		<View class="passcon">
+			<Label id="passcon"/>
+			<TextField passwordMask="true" id= "passcontxt"/>
+		</View>
+		<View class="btnview">
+			<Button id= "regbtn" onClick="submit"/>
+		</View>
+	</Window>
+</Alloy>

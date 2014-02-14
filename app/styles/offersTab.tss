@@ -1,0 +1,5 @@
+"#offersTab":{
+	icon: "/images/home.png",
+	backgroundColor: "#E5E4E2",
+	title: "Offers"
+}

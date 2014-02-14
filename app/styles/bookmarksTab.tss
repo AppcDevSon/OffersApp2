@@ -1,0 +1,6 @@
+
+"#bookmarks":{
+	icon: "/images/bookM.png",
+	backgroundColor: "#E5E4E2",
+	title: "Bookmarks"
+}

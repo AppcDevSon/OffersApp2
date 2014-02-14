@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="bookmarks">
+			<Require src="bookmarksWindow"/>
+		</Tab>
+</Alloy>

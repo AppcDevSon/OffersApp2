@@ -1,0 +1,7 @@
+<Alloy>
+	<TabGroup class="tabG">
+		<Require src="offersTab"></Require>
+		<Require src="profileTab"></Require>
+		<Require src="bookmarksTab"></Require>
+	</TabGroup>
+</Alloy>

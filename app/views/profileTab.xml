@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="profile">
+			<Require src="profileWindow"/>
+		</Tab>
+</Alloy>

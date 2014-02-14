@@ -1,0 +1,1 @@
+$.offerWindow.setTab($.offersTab);

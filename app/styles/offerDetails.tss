@@ -1,0 +1,68 @@
+".container":{
+	backgroundColor:'#FFFFFF',
+	layout: "vertical",
+	left: 0
+	
+},
+
+".image":{
+	
+	//layout: "horizontal",
+	top: 20,
+	height: Ti.UI.SIZE,
+	width:Ti.UI.SIZE,
+	left: 100
+	
+},
+"#imageView":{
+	width:Ti.UI.SIZE,
+	height:Ti.UI.SIZE
+},
+
+".titleView":{
+	top:0,
+	left:0,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+	
+},
+
+"#title":{
+	
+	top:0,
+	left:10,
+	width: 100,
+	height: 50,
+	font: {
+		coclor:"#EFEFEF"
+	}
+}
+"#desc":{
+	
+	top:0,
+	left:130,
+	width: 200,
+	height: 50,
+	font: {
+		coclor:"#EFEFEF"
+	}	
+	
+}
+".contentView":{
+	top:0,
+	left:0,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+	
+},
+"#content":{
+	
+	top:0,
+	left:10,
+	width: 100,
+	height: Ti.UI.SIZE,
+	font: {
+		coclor:"#EFEFEF"
+	}	
+	
+}

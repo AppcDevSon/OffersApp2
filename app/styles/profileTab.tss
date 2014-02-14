@@ -1,0 +1,5 @@
+"#profile":{
+	icon: "/images/profile.png",
+	backgroundColor: "#E5E4E2",
+	title: "Profile"
+}

@@ -1,0 +1,22 @@
+<Alloy>
+	<Window class="container">
+		<View class= "image">
+		   <ImageView id="imageView" />
+		</View>
+		<View class="userview">
+		   <Label id="user"/>
+		   <TextField id= "usertxt"/>
+		</View>
+		<View class="passview">
+		   <Label id="pass"/>
+		   <TextField passwordMask="true" id= "passtxt"/>
+		</View>
+		<View class="btnview">
+		   <Button id= "logbtn" onClick="doLogin">Login</Button>
+		   <Button id= "regbtn" onClick="register">Register</Button>
+		</View>
+		<View class="logout">
+			<Button id= "logOutBtn" onClick="logout">Login</Button>
+		</View>
+	</Window>
+</Alloy>

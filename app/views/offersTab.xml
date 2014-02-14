@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="offersTab">
+		<Require id = "offerWindow"src="offersWindow"/>
+	</Tab>
+</Alloy>

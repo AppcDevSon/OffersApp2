@@ -1,0 +1,15 @@
+<Alloy>
+	<Window id="detailsWindow" class="container">
+		<View class="image" id="imgView">
+			<ImageView id="imageView"/>
+		</View>
+		<View class="titleView" id="ttlView">
+			<Label id="title"/>
+			<Label id="desc"/>
+		</View>
+		<View class="contentView" id="cntView">
+			<Label id="content"/>
+		</View>
+
+	</Window>
+</Alloy>
