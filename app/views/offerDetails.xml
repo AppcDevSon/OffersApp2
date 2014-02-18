@@ -10,6 +10,9 @@
 		<View class="contentView" id="cntView">
 			<Label id="content"/>
 		</View>
+		<View class="claim" id="claimViews">
+			<Button id="claimBtn" onClick="claim"></Button>
+		</View>
 
 	</Window>
 </Alloy>

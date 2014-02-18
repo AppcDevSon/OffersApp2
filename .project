@@ -3,6 +3,7 @@
 	<name>OffersApp2</name>
 	<comment></comment>
 	<projects>
+		<project>OffersApp2</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
@@ -20,5 +21,6 @@
 		<nature>com.appcelerator.titanium.alloy.core.nature</nature>
 		<nature>com.appcelerator.titanium.mobile.nature</nature>
 		<nature>com.aptana.projects.webnature</nature>
+		<nature>com.appcelerator.titanium.acs.core.nodejsnature</nature>
 	</natures>
 </projectDescription>

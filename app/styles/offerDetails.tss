@@ -11,7 +11,7 @@
 	top: 20,
 	height: Ti.UI.SIZE,
 	width:Ti.UI.SIZE,
-	left: 100
+	left: 120
 	
 },
 "#imageView":{
@@ -59,10 +59,25 @@
 	
 	top:0,
 	left:10,
-	width: 100,
+	width: 320,
 	height: Ti.UI.SIZE,
 	font: {
 		coclor:"#EFEFEF"
 	}	
 	
+},
+
+".claim": {
+	top:0,
+	left:0,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+	
+},
+"#claimBtn":{
+	width:100,
+	height:40,
+	title:"Claim",
+	left:130,
+	textAlign: "center"
 }

@@ -3,7 +3,7 @@ var sessionId = persist.getSessionId();
 
 Ti.API.info(sessionId);
 
-if (sessionId === "undefined" || sessionId === "null") {
+if (!sessionId ){//sessionId === "<null>" || sessionId === "undefined" || sessionId === "null") {
 
 	Alloy.createController("loginWindow").getView().open();
 } else {
